@@ -1,0 +1,55 @@
+{
+  "authority": "Exact already-published reference strings; independently transcribed field expectations",
+  "records": {
+    "silicate_ref_349": {
+      "published_reference": "[349] Muhammad Ibrahim Iqbal; Syed Asad Abbas; Asad Mehmood; Seong-Hoon Kim; Heung Yong Ha; Kwang-Deog Jung. (2017). Performance of Electrochemical Cell to Produce Acid and Alkali for nCaCO3 Production Using Waste Inorganics. Journal of The Electrochemical Society 164(13), F1286-F1293. Access: Publisher-deposited/indexed metadata only; original evidence assessment open. https://doi.org/10.1149/2.0221713jes",
+      "expected_fields": {
+        "title": "Performance of Electrochemical Cell to Produce Acid and Alkali for nCaCO3 Production Using Waste Inorganics"
+      }
+    },
+    "silicate_ref_427": {
+      "published_reference": "[427] Zhi Qiang Ning; Yu Chun Zhai; Hua Mei Duan; Huai Zhong Huang. (2012). Study on the Leaching SiO2 from Boromagnesite by Using Sodium Hydroxide. Advanced Materials Research 554-556, 562-564. Access: Publisher-deposited/indexed metadata only; original evidence assessment open. https://doi.org/10.4028/www.scientific.net/amr.554-556.562",
+      "expected_fields": {
+        "title": "Study on the Leaching SiO2 from Boromagnesite by Using Sodium Hydroxide"
+      }
+    },
+    "silicate_ref_453": {
+      "published_reference": "[453] Author/inventor metadata not established. (1979). Production of Magnesia from Savage River Magnesite; Appendix 1: European Experience, visit 10 September 1979. Record: Veitscher1979-government-witness. Access: Text extracted from the government-hosted PDF; original PDF bytes not acquired. https://www.mrt.tas.gov.au/mrtdoc/tasxplor/download/79_1332/79-1332.pdf",
+      "expected_fields": {
+        "title": "Production of Magnesia from Savage River Magnesite; Appendix 1: European Experience, visit 10 September 1979"
+      }
+    },
+    "silicate_ref_581": {
+      "published_reference": "[581] Евдокимова М.В.; Горленко А.С.; Яковлев А.С. (2024). Оценка экологического состояния почв в зоне воздействия Среднеуральского медеплавильного завода [Environmental assessment of soil state in the impact zone of the Sredneuralsky copper smelter]. Вестник Московского университета. Серия 17. Почвоведение, № 2, 84–94. Access: Original publisher metadata and abstract inspected; full article not assessed. Retained source outside the precursor-processing scope. https://doi.org/10.55959/MSU0137-0944-17-2024-79-2-84-94",
+      "expected_fields": {
+        "title": "Оценка экологического состояния почв в зоне воздействия Среднеуральского медеплавильного завода",
+        "title-translation": "Environmental assessment of soil state in the impact zone of the Sredneuralsky copper smelter",
+        "author": [
+          {
+            "literal": "Евдокимова М.В."
+          },
+          {
+            "literal": "Горленко А.С."
+          },
+          {
+            "literal": "Яковлев А.С."
+          }
+        ],
+        "DOI": "10.55959/MSU0137-0944-17-2024-79-2-84-94",
+        "source_identifier": "10.55959/MSU0137-0944-17-2024-79-2-84-94",
+        "URL": "https://doi.org/10.55959/MSU0137-0944-17-2024-79-2-84-94",
+        "issued": {
+          "date-parts": [
+            [
+              2024
+            ]
+          ]
+        },
+        "container-title": "Вестник Московского университета. Серия 17. Почвоведение",
+        "issue": "2",
+        "page": "84–94",
+        "type": "article-journal"
+      }
+    }
+  }
+}

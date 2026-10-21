@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bradpierce.ai/silicate-cementitious-precursors/sitemap.xml

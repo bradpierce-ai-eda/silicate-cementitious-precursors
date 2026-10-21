@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: Bibliographic identity of the DOI-linked Zenodo preprint, the publication
+  of record.
+type: dataset
+title: 'Silicate Rocks and Mineral Residues as Sources of Cementitious Precursors:
+  A Literature Survey'
+authors: &id001
+- family-names: Pierce
+  given-names: Brad
+  orcid: https://orcid.org/0009-0009-7427-2969
+doi: 10.5281/zenodo.23524396
+date-released: '2026-10-21'
+url: https://zenodo.org/records/23524396
+abstract: 'Chemical processing connects silicate rocks and mineral residues with several
+  distinct classes of cementitious precursor: calcium-bearing intermediates for clinker
+  or hydrated binders, magnesium hydroxide and magnesia, silica-rich residues and
+  precipitates, soluble silicates, and aluminosilicate products. This survey organizes
+  the literature by feedstock mineralogy, activation and dissolution, separation,
+  reagent recovery, product characteristics, formulation and observed performance.
+  It integrates historical mineral-processing accounts, contemporary chemical and
+  electrochemical studies, theses, patent disclosures and selected industrial descriptions.
+  Acid and alkaline dissolution, salt-assisted treatment, thermal conversion, electrochemical
+  pH control, membrane separations and antisolvent operations are considered in relation
+  to their actual product streams. Particular attention is given to the distinction
+  between mineral dissolution and isolated-product recovery, liquor reuse and chemical
+  regeneration, product purity and binder reactivity, and unit-operation results and
+  integrated process balances. Reported applications include Portland-system additions,
+  soluble-silicate activators, magnesium-silicate binders, magnesium oxychloride and
+  phosphate formulations, specialized cement slurries and stabilization binders. Comparisons
+  retain formulation, test age, analytical method and energy denominator wherever
+  these are available. An extensive bibliography and thematic source catalog retain
+  identified documents whose original bodies remain inaccessible or unassessed, with
+  their evidence status stated explicitly.'
+keywords: &id002
+- silicate minerals
+- mineral residues
+- chemical extraction
+- electrochemical processing
+- silica
+- magnesium
+- calcium
+- reagent regeneration
+- alkali activation
+- cementitious precursors
+license: CC-BY-NC-4.0
+preferred-citation:
+  type: generic
+  status: preprint
+  title: 'Silicate Rocks and Mineral Residues as Sources of Cementitious Precursors:
+    A Literature Survey'
+  authors: *id001
+  doi: 10.5281/zenodo.23524396
+  date-published: '2026-10-21'
+  year: 2026
+  url: https://zenodo.org/records/23524396
+  publisher:
+    name: Zenodo
+  keywords: *id002
+  notes: Published preprint; the version DOI identifies the publication of record.
