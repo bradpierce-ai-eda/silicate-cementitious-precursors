@@ -1,0 +1,402 @@
+{
+  "id": "23524396",
+  "created": "2026-10-21T06:12:13.145603+00:00",
+  "updated": "2026-10-21T06:12:13.527644+00:00",
+  "links": {
+    "self": "https://zenodo.org/api/records/23524396",
+    "self_html": "https://zenodo.org/records/23524396",
+    "preview_html": "https://zenodo.org/records/23524396?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.23524396",
+    "self_doi": "https://doi.org/10.5281/zenodo.23524396",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.23524396",
+    "reserve_doi": "https://zenodo.org/api/records/23524396/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/23524395",
+    "parent_html": "https://zenodo.org/records/23524395",
+    "parent_doi": "https://doi.org/10.5281/zenodo.23524395",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.23524395",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:23524396/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:23524396/sequence/default",
+    "files": "https://zenodo.org/api/records/23524396/files",
+    "media_files": "https://zenodo.org/api/records/23524396/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:23524396:silicate-cementitious-precursors.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:23524396:silicate-cementitious-precursors.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:23524396:silicate-cementitious-precursors.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:23524396:silicate-cementitious-precursors.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:23524396:silicate-cementitious-precursors.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:23524396:silicate-cementitious-precursors.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "latest": "https://zenodo.org/api/records/23524396/versions/latest",
+    "latest_html": "https://zenodo.org/records/23524396/latest",
+    "versions": "https://zenodo.org/api/records/23524396/versions",
+    "draft": "https://zenodo.org/api/records/23524396/draft",
+    "access_links": "https://zenodo.org/api/records/23524396/access/links",
+    "access_grants": "https://zenodo.org/api/records/23524396/access/grants",
+    "access_users": "https://zenodo.org/api/records/23524396/access/users",
+    "access_request": "https://zenodo.org/api/records/23524396/access/request",
+    "access": "https://zenodo.org/api/records/23524396/access",
+    "communities": "https://zenodo.org/api/records/23524396/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/23524396/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/23524396/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/23524396/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/23524396/quota-increase",
+    "requests": "https://zenodo.org/api/records/23524396/requests"
+  },
+  "revision_id": 3,
+  "parent": {
+    "id": "23524395",
+    "access": {
+      "owned_by": {
+        "user": "1888563"
+      },
+      "settings": {
+        "allow_user_requests": false,
+        "allow_guest_requests": false,
+        "accept_conditions_text": null,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "pids": {
+      "doi": {
+        "identifier": "10.5281/zenodo.23524395",
+        "provider": "datacite",
+        "client": "datacite"
+      }
+    }
+  },
+  "versions": {
+    "is_latest": true,
+    "index": 1
+  },
+  "is_published": true,
+  "is_draft": false,
+  "pids": {
+    "doi": {
+      "identifier": "10.5281/zenodo.23524396",
+      "provider": "datacite",
+      "client": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:23524396",
+      "provider": "oai"
+    }
+  },
+  "metadata": {
+    "resource_type": {
+      "id": "publication-preprint",
+      "title": {
+        "de": "Preprint",
+        "en": "Preprint"
+      }
+    },
+    "creators": [
+      {
+        "person_or_org": {
+          "type": "personal",
+          "name": "Pierce, Brad",
+          "given_name": "Brad",
+          "family_name": "Pierce",
+          "identifiers": [
+            {
+              "identifier": "0009-0009-7427-2969",
+              "scheme": "orcid"
+            }
+          ]
+        }
+      }
+    ],
+    "title": "Silicate Rocks and Mineral Residues as Sources of Cementitious Precursors: A Literature Survey",
+    "publisher": "Zenodo",
+    "publication_date": "2026-10-21",
+    "subjects": [
+      {
+        "id": "euroscivoc:63",
+        "subject": "Materials engineering",
+        "scheme": "EuroSciVoc",
+        "props": {
+          "parents": "euroscivoc:25"
+        },
+        "identifiers": [
+          {
+            "identifier": "http://data.europa.eu/8mn/euroscivoc/dc9a4100-9eb3-4956-8fd8-b67ea07a70ad",
+            "scheme": "url"
+          }
+        ]
+      },
+      {
+        "subject": "silicate minerals"
+      },
+      {
+        "subject": "mineral residues"
+      },
+      {
+        "subject": "chemical extraction"
+      },
+      {
+        "subject": "electrochemical processing"
+      },
+      {
+        "subject": "silica"
+      },
+      {
+        "subject": "magnesium"
+      },
+      {
+        "subject": "calcium"
+      },
+      {
+        "subject": "reagent regeneration"
+      },
+      {
+        "subject": "alkali activation"
+      },
+      {
+        "subject": "cementitious precursors"
+      }
+    ],
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.23489459",
+        "scheme": "doi",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-preprint",
+          "title": {
+            "de": "Preprint",
+            "en": "Preprint"
+          }
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-nc-4.0",
+        "title": {
+          "en": "Creative Commons Attribution Non Commercial 4.0 International"
+        },
+        "description": {
+          "en": ""
+        },
+        "icon": "cc-by-nc-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "copyright": "© 2026 Brad Pierce",
+    "description": "<p>Chemical processing connects silicate rocks and mineral residues with several distinct classes of cementitious precursor: calcium-bearing intermediates for clinker or hydrated binders, magnesium hydroxide and magnesia, silica-rich residues and precipitates, soluble silicates, and aluminosilicate products. This survey organizes the literature by feedstock mineralogy, activation and dissolution, separation, reagent recovery, product characteristics, formulation and observed performance. It integrates historical mineral-processing accounts, contemporary chemical and electrochemical studies, theses, patent disclosures and selected industrial descriptions. Acid and alkaline dissolution, salt-assisted treatment, thermal conversion, electrochemical pH control, membrane separations and antisolvent operations are considered in relation to their actual product streams. Particular attention is given to the distinction between mineral dissolution and isolated-product recovery, liquor reuse and chemical regeneration, product purity and binder reactivity, and unit-operation results and integrated process balances. Reported applications include Portland-system additions, soluble-silicate activators, magnesium-silicate binders, magnesium oxychloride and phosphate formulations, specialized cement slurries and stabilization binders. Comparisons retain formulation, test age, analytical method and energy denominator wherever these are available. An extensive bibliography and thematic source catalog retain identified documents whose original bodies remain inaccessible or unassessed, with their evidence status stated explicitly.</p>",
+    "additional_descriptions": [
+      {
+        "description": "<p><span>This report was developed by Brad Pierce with substantial assistance from an AI model. He </span><span>established the research objectives and editorial direction and retains responsibility for the&nbsp;</span><span>claims, source attributions, and decisions about publication.</span></p>",
+        "type": {
+          "id": "methods",
+          "title": {
+            "de": "Methoden",
+            "en": "Methods"
+          }
+        },
+        "lang": {
+          "id": "eng",
+          "title": {
+            "en": "English"
+          }
+        }
+      }
+    ]
+  },
+  "custom_fields": {},
+  "access": {
+    "record": "public",
+    "files": "public",
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "status": "open"
+  },
+  "files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 2666019,
+    "entries": {
+      "silicate-cementitious-precursors.pdf": {
+        "id": "878f7c6f-9212-4153-bedb-5d684159d2f2",
+        "checksum": "md5:e287505fa7a6afda3e9b63d7f4b077a4",
+        "ext": "pdf",
+        "size": 2666019,
+        "mimetype": "application/pdf",
+        "storage_class": "L",
+        "key": "silicate-cementitious-precursors.pdf",
+        "metadata": {
+          "width": 612,
+          "height": 792
+        },
+        "access": {
+          "hidden": false
+        },
+        "links": {
+          "self": "https://zenodo.org/api/records/23524396/files/silicate-cementitious-precursors.pdf",
+          "content": "https://zenodo.org/api/records/23524396/files/silicate-cementitious-precursors.pdf/content",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:23524396/canvas/silicate-cementitious-precursors.pdf",
+          "iiif_base": "https://zenodo.org/api/iiif/record:23524396:silicate-cementitious-precursors.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:23524396:silicate-cementitious-precursors.pdf/info.json",
+          "iiif_api": "https://zenodo.org/api/iiif/record:23524396:silicate-cementitious-precursors.pdf/full/full/0/default.png"
+        }
+      }
+    }
+  },
+  "media_files": {
+    "enabled": true,
+    "order": [],
+    "count": 1,
+    "total_bytes": 0,
+    "entries": {
+      "silicate-cementitious-precursors.pdf.ptif": {
+        "id": "dda8ee1a-a2db-4cbd-b077-5ad4353b133e",
+        "ext": "ptif",
+        "size": 0,
+        "mimetype": "application/octet-stream",
+        "storage_class": "L",
+        "key": "silicate-cementitious-precursors.pdf.ptif",
+        "metadata": null,
+        "access": {
+          "hidden": true
+        },
+        "processor": {
+          "type": "image-tiles",
+          "status": "finished",
+          "source_file_id": "878f7c6f-9212-4153-bedb-5d684159d2f2"
+        },
+        "links": {
+          "self": "https://zenodo.org/api/records/23524396/files/silicate-cementitious-precursors.pdf.ptif",
+          "content": "https://zenodo.org/api/records/23524396/files/silicate-cementitious-precursors.pdf.ptif/content"
+        }
+      }
+    }
+  },
+  "status": "published",
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "stats": {
+    "this_version": {
+      "views": 0,
+      "unique_views": 0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "data_volume": 0.0
+    },
+    "all_versions": {
+      "views": 0,
+      "unique_views": 0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "data_volume": 0.0
+    }
+  },
+  "swh": {},
+  "ui": {
+    "publication_date_l10n_medium": "Oct 21, 2026",
+    "publication_date_l10n_long": "October 21, 2026",
+    "created_date_l10n_long": "October 21, 2026",
+    "updated_date_l10n_long": "October 21, 2026",
+    "resource_type": {
+      "id": "publication-preprint",
+      "title_l10n": "Preprint"
+    },
+    "custom_fields": {},
+    "access_status": {
+      "id": "open",
+      "title_l10n": "Open",
+      "description_l10n": "The record and files are publicly accessible.",
+      "icon": "unlock",
+      "embargo_date_l10n": null,
+      "message_class": ""
+    },
+    "creators": {
+      "creators": [
+        {
+          "person_or_org": {
+            "type": "personal",
+            "name": "Pierce, Brad",
+            "given_name": "Brad",
+            "family_name": "Pierce",
+            "identifiers": [
+              {
+                "identifier": "0009-0009-7427-2969",
+                "scheme": "orcid"
+              }
+            ]
+          }
+        }
+      ],
+      "affiliations": []
+    },
+    "languages": [
+      {
+        "id": "eng",
+        "title_l10n": "English"
+      }
+    ],
+    "description_stripped": "Chemical processing connects silicate rocks and mineral residues with several distinct classes of cementitious precursor: calcium-bearing intermediates for clinker or hydrated binders, magnesium hydroxide and magnesia, silica-rich residues and precipitates, soluble silicates, and aluminosilicate products. This survey organizes the literature by feedstock mineralogy, activation and dissolution, separation, reagent recovery, product characteristics, formulation and observed performance. It integrates historical mineral-processing accounts, contemporary chemical and electrochemical studies, theses, patent disclosures and selected industrial descriptions. Acid and alkaline dissolution, salt-assisted treatment, thermal conversion, electrochemical pH control, membrane separations and antisolvent operations are considered in relation to their actual product streams. Particular attention is given to the distinction between mineral dissolution and isolated-product recovery, liquor reuse and chemical regeneration, product purity and binder reactivity, and unit-operation results and integrated process balances. Reported applications include Portland-system additions, soluble-silicate activators, magnesium-silicate binders, magnesium oxychloride and phosphate formulations, specialized cement slurries and stabilization binders. Comparisons retain formulation, test age, analytical method and energy denominator wherever these are available. An extensive bibliography and thematic source catalog retain identified documents whose original bodies remain inaccessible or unassessed, with their evidence status stated explicitly.",
+    "version": "v1",
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.23489459",
+        "relation_type": {
+          "id": "cites",
+          "title_l10n": "Cites"
+        },
+        "scheme": "doi",
+        "resource_type": {
+          "id": "publication-preprint",
+          "title_l10n": "Preprint"
+        }
+      }
+    ],
+    "additional_descriptions": [
+      {
+        "description": "<p><span>This report was developed by Brad Pierce with substantial assistance from an AI model. He </span><span>established the research objectives and editorial direction and retains responsibility for the&nbsp;</span><span>claims, source attributions, and decisions about publication.</span></p>",
+        "type": {
+          "id": "methods",
+          "title_l10n": "Methods"
+        },
+        "lang": {
+          "id": "eng",
+          "title_l10n": "English"
+        }
+      }
+    ],
+    "rights": [
+      {
+        "id": "cc-by-nc-4.0",
+        "title_l10n": "Creative Commons Attribution Non Commercial 4.0 International",
+        "description_l10n": "",
+        "icon": "cc-by-nc-icon",
+        "props": {
+          "url": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+          "scheme": "spdx"
+        }
+      }
+    ],
+    "is_draft": false
+  }
+}
