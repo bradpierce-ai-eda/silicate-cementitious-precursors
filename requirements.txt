@@ -1,0 +1,6 @@
+beautifulsoup4>=4.12
+PyMuPDF>=1.26
+pypdf>=5
+PyYAML>=6
+bibtexparser>=1.4,<2
+lxml>=5

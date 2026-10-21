@@ -1,0 +1,16 @@
+{
+  "source_publication": "https://zenodo.org/records/23524396",
+  "preferred_version_doi": "10.5281/zenodo.23524396",
+  "concept_doi": "10.5281/zenodo.23524395",
+  "source_filename": "silicate-cementitious-precursors.pdf",
+  "source_sha256": "43a1b73ebb707c94e1f6a09dc3e356707d288beb27d8e5c8582ef60445fdfdca",
+  "source_bytes": 2666019,
+  "source_native_revision": "AHj4eMSfqNnL4PcfFckpNlEQ9fz6Mv6DoxBChXrR1wuYDxY91vnBm_scfwuosxjluWQ3Ft1pjIvh3gz33ce3lIfz1_tp8G9sI_yVe54eZk2Y",
+  "source_document_id": "1Zv407A7nKU-Cfx_h-vM1H4Sf9NWFNxZiUbqG07ApxZc",
+  "canonical_blocks_sha256": "459a80af42313baa0e741dff9591201a97cb5ac0f4a8375f0b3294af8efd842f",
+  "transformation": "Exact native publication-source paragraph/table mapping, verified against every deposited PDF paragraph and cell. SVG masters from the verified publication build. Markdown and static HTML change representation only. Bibliography exports preserve exact published reference strings alongside conservative frozen identity fields.",
+  "manual_text_corrections": [],
+  "generated_at_utc": "2026-10-21T06:44:11.961579+00:00",
+  "bibliography_limits": "Source-specific unresolved metadata/access limits remain explicit. Bibliography conversion does not constitute renewed literature verification; related documents are not independent experiments. Dates have only supported precision.",
+  "validation_status": "Standalone deterministic validator and private release receipt identify applicable checks; no indexing or PDF/UA certification assertion."
+}

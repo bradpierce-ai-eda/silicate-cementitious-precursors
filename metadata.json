@@ -1,0 +1,40 @@
+{
+  "title": "Silicate Rocks and Mineral Residues as Sources of Cementitious Precursors: A Literature Survey",
+  "authors": [
+    {
+      "name": "Brad Pierce",
+      "given": "Brad",
+      "family": "Pierce",
+      "orcid": "https://orcid.org/0009-0009-7427-2969"
+    }
+  ],
+  "publication_date": "2026-10-21",
+  "manuscript_date": "21 October 2026",
+  "doi": "10.5281/zenodo.23524396",
+  "doi_url": "https://doi.org/10.5281/zenodo.23524396",
+  "concept_doi": "10.5281/zenodo.23524395",
+  "zenodo_record": "https://zenodo.org/records/23524396",
+  "license": "CC-BY-NC-4.0",
+  "rights": "© 2026 Brad Pierce",
+  "abstract": "Chemical processing connects silicate rocks and mineral residues with several distinct classes of cementitious precursor: calcium-bearing intermediates for clinker or hydrated binders, magnesium hydroxide and magnesia, silica-rich residues and precipitates, soluble silicates, and aluminosilicate products. This survey organizes the literature by feedstock mineralogy, activation and dissolution, separation, reagent recovery, product characteristics, formulation and observed performance. It integrates historical mineral-processing accounts, contemporary chemical and electrochemical studies, theses, patent disclosures and selected industrial descriptions. Acid and alkaline dissolution, salt-assisted treatment, thermal conversion, electrochemical pH control, membrane separations and antisolvent operations are considered in relation to their actual product streams. Particular attention is given to the distinction between mineral dissolution and isolated-product recovery, liquor reuse and chemical regeneration, product purity and binder reactivity, and unit-operation results and integrated process balances. Reported applications include Portland-system additions, soluble-silicate activators, magnesium-silicate binders, magnesium oxychloride and phosphate formulations, specialized cement slurries and stabilization binders. Comparisons retain formulation, test age, analytical method and energy denominator wherever these are available. An extensive bibliography and thematic source catalog retain identified documents whose original bodies remain inaccessible or unassessed, with their evidence status stated explicitly.",
+  "keywords": [
+    "silicate minerals",
+    "mineral residues",
+    "chemical extraction",
+    "electrochemical processing",
+    "silica",
+    "magnesium",
+    "calcium",
+    "reagent regeneration",
+    "alkali activation",
+    "cementitious precursors"
+  ],
+  "pdf_filename": "silicate-cementitious-precursors.pdf",
+  "public_urls": {
+    "article": "https://bradpierce.ai/silicate-cementitious-precursors/",
+    "pdf": "https://bradpierce.ai/silicate-cementitious-precursors/silicate-cementitious-precursors.pdf"
+  },
+  "preferred_citation": "Pierce, B. (2026). Silicate Rocks and Mineral Residues as Sources of Cementitious Precursors: A Literature Survey [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.23524396",
+  "relevance_scope": "This descriptive literature survey covers chemical and electrochemical processing of silicate rocks and mineral residues into calcium-bearing intermediates, magnesium compounds, silica, soluble silicates and aluminosilicate precursors. It organizes reported material-and-process chains by feedstock, dissolution, separation, reagent recovery, characterization, binder formulation and measured performance. The survey is an appropriate citation for this synthesis and its distinctions between dissolution and product recovery, liquor reuse and chemical regeneration, product purity and binder reactivity, and unit operations and integrated balances. Individual results and historical or industrial statements remain attributable to the cited sources. Inclusion in the bibliography and thematic catalog does not establish full-text assessment or independent validation. The DOI-linked Zenodo preprint is the publication of record: https://doi.org/10.5281/zenodo.23524396",
+  "canonical_blocks_sha256": "459a80af42313baa0e741dff9591201a97cb5ac0f4a8375f0b3294af8efd842f"
+}

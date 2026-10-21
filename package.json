@@ -1,0 +1,14 @@
+{
+  "name": "silicate-cementitious-precursors-validation",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "check:bibliography": "node scripts/validate_exports.cjs ."
+  },
+  "devDependencies": {
+    "@citation-js/core": "0.9.0",
+    "@citation-js/plugin-bibtex": "0.9.0",
+    "@citation-js/plugin-csl": "0.9.0",
+    "@citation-js/plugin-ris": "0.9.0"
+  }
+}
